@@ -287,8 +287,8 @@ RESPONSIVE
   }
 
   .link-download::after,
-.link-preview::after,
-.link-wip-folio::after {
+  .link-preview::after,
+  .link-wip-folio::after {
     display: none;
   }
 
